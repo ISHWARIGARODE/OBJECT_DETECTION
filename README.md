@@ -1,3 +1,9 @@
+OBJECT DETECTION DESCRIPTION:
+
+Object detection using Python is a computer vision technique used to locate and identify multiple objects within an image or video. It combines image classification and object localization, and is widely used in applications like surveillance, autonomous vehicles, face detection, robotics, and more.
+
+
+
 OBJECT_DETECTION
 ![image](https://github.com/user-attachments/assets/023ada73-7b76-4cb2-8e93-316046514d0d)
 
